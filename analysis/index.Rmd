@@ -9,3 +9,7 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+* [Teeth growth analysis](teeth.html)
+
+* [Link to Bei's website](https://beiwo07.github.io/myproject_test/)
